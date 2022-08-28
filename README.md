@@ -2,7 +2,7 @@
 
 `Yeni Bot Geldi Herkez Kullanabilir`
 
-`Altyapı Aslında Bana Ait Değildir Boranın altyapısı sadece hataları düzeltip Eksik Komutları Ekledim Yani Altyapıyı Komple Elden Geçirdim En Küçük Noktasına Kadar Hatasız Çalışıyor`
+`Altyapı Aslında Bana Ait Değildir Boranın altyapısı sadece hataları düzeltip Eksik Komutları Ekledim Yani Altyapıyı Komple Elden Geçirdim En Küçük Noktasına Kadar Hatasız Çalışıyor` :D
 
 `Altyapıyı Çalıpta Ben Yaptım Öyle Böyle Demeyin Altyapıyı Ben Yaptım`
 
